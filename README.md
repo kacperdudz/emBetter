@@ -1,6 +1,6 @@
 # emBetter
 ## Description
-Discord bot to add items to certain channels. Allows tagging those items to other users and relating items to each other. 
+Discord bot to add items to certain channels. Allows tagging those items to other users and relating items to each other via links (hence the name, embedded -> emBetter) -- you can't normally embed links in discord for some reason. 
 Still early and a WIP, but the core functionality works. Please excuse the spaghetti code and console.logs
 
 ## How-to
