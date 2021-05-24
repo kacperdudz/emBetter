@@ -106,7 +106,10 @@ client.on('message', message => {
 
 })
 
-client.login('ODQ2MDcyODQ2NTMwMTE3Njkz.YKqMvQ.gdY9T4k2qQDxL4KqVAwpPpRp3vA');
+
+var request = require('./vars.js');
+
+client.login(request.token);
 
 
 
